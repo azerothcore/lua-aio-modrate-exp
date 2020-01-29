@@ -18,9 +18,9 @@
 
 - Download the [release](https://github.com/iThorgrim-hub/lua-aio-modrate-exp/archive/0.0.2.zip).
 - Download the [AIO_Folder](https://github.com/Rochet2/AIO).
-- Put AIO_Client on your Wow Folder/Interface/AddOns.
-- Put AIO_Server on your *lua_scripts* folder.
-- Just drop the ExpModifier_AIO_Client.lua & ExpModifier_AIO_Server.lua on your *lua_scripts* folder.
+- **Put AIO_Client on your Wow Folder/Interface/AddOns.**
+- **Put AIO_Server on your *lua_scripts* folder.**
+- Just **drop the ExpModifier_AIO_Client.lua & ExpModifier_AIO_Server.lua on your *lua_scripts* folder.**
 - Configure the script. **(Open with notepad & go to line 6)**.
 - Reload Eluna (.reload eluna).
 - Enjoy :D
