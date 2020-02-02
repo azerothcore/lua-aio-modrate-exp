@@ -41,11 +41,11 @@
         function h_expmodifier.update(player)
             h_expmodifier.getRateModifier(AIO.Msg(), player):Send(player);
         end
---[[
 
+--[[ DON'T TOUCH THIS ]]--
+    CharDBQuery('CREATE DATABASE IF NOT EXISTS `'..m_config.elunaDB..'`;');
+    CharDBQuery('CREATE TABLE IF NOT EXISTS `'..m_config.elunaDB..'`.`characters_exp_rates` (`guid` int(10) NOT NULL, `mod_exp` INT(2) NOT NULL DEFAULT 1, PRIMARY KEY (`guid`)) ENGINE=InnoDB DEFAULT CHARSET=latin1;');
 
-
-]]--
 function m_exp.onConnect(event, player)
     local pGuid = player:GetGUIDLow()
     if not(m_exp[pGuid])then
