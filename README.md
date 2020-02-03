@@ -9,14 +9,14 @@
 
 	All this is documented in the code, just open the script and change what needs to be changed.
 
-    Repository: https://github.com/iThorgrim-hub/lua-aio-modrate-exp
-    Download: https://github.com/iThorgrim-hub/lua-aio-modrate-exp/archive/0.0.1.zip
+    Repository: https://github.com/iThorgrim-hub/Eluna-Catalogue/tree/lua-aio-modrate-exp
+    Download: https://github.com/iThorgrim-hub/Eluna-Catalogue/archive/aio-modrate-exp_v1.0.zip
     License: AGPL
 
 
 # Usage
 
-- Download the [release](https://github.com/azerothcore/lua-aio-modrate-exp/releases).
+- Download the [release](https://github.com/iThorgrim-hub/Eluna-Catalogue/releases).
 - Download the [AIO_Folder](https://github.com/Rochet2/AIO).
 - **Put AIO_Client on your Wow Folder/Interface/AddOns.**
 - **Put AIO_Server on your *lua_scripts* folder.**
@@ -27,7 +27,7 @@
 
 # Need help?
 
-If you encounter a bug please [open a issue](https://github.com/azerothcore/lua-aio-modrate-exp/issues/new).
+If you encounter a bug please [open a issue](https://github.com/iThorgrim-hub/Eluna-Catalogue/issues/new).
      
 
 ## Credits
